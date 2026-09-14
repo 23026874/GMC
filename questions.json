@@ -1,0 +1,1447 @@
+[
+  {
+    "q": "True or False: The Bible is the most popular book ever written. (by copies sold)",
+    "a": "True",
+    "c": "the Bible"
+  },
+  {
+    "q": "What is the first book in the Bible?",
+    "a": "Genesis",
+    "c": "the Bible"
+  },
+  {
+    "q": "What is the last book in the Bible?",
+    "a": "Revelation",
+    "c": "the Bible"
+  },
+  {
+    "q": "What four books tell about Jesus life on Earth?",
+    "a": "Matthew, Mark, Luke, John",
+    "c": "the Bible"
+  },
+  {
+    "q": "Which book did Jesus directly write?",
+    "a": "None",
+    "c": "the Bible"
+  },
+  {
+    "q": "What is the longest book in the Bible?",
+    "a": "Psalms",
+    "c": "the Bible"
+  },
+  {
+    "q": "What is the shortest book in the Bible?",
+    "a": "3 John",
+    "c": "the Bible"
+  },
+  {
+    "q": "How many books are in the Bible?",
+    "a": "66",
+    "c": "the Bible"
+  },
+  {
+    "q": "How many books in the Old Testament?",
+    "a": "39 books in the OT",
+    "c": "the Bible"
+  },
+  {
+    "q": "How many books in the New Testament?",
+    "a": "27 books in the NT",
+    "c": "the Bible"
+  },
+  {
+    "q": "Which NT book has Jesus' Sermon on the Mount?",
+    "a": "Matthew Ture or False: The Bible was first written in the English language?",
+    "c": "the Bible"
+  },
+  {
+    "q": "In what language was most of the Old Testament given?",
+    "a": "Hebrew",
+    "c": "the Bible"
+  },
+  {
+    "q": "In what language was most of the New Testament given?",
+    "a": "Greek",
+    "c": "the Bible"
+  },
+  {
+    "q": "Which human author wrote the most books?",
+    "a": "Paul wrote 13 books.",
+    "c": "the Bible"
+  },
+  {
+    "q": "Which human author wrote the most words in the Bible?",
+    "a": "Moses wrote 125,139 words. (source)",
+    "c": "the Bible"
+  },
+  {
+    "q": "What was most likely the first Gospel written?",
+    "a": "Mark",
+    "c": "the Bible"
+  },
+  {
+    "q": "What was most likely the last Gospel written?",
+    "a": "John",
+    "c": "the Bible"
+  },
+  {
+    "q": "What was most likely the first of Paul's letters written?",
+    "a": "1 Thessalonians",
+    "c": "the Bible"
+  },
+  {
+    "q": "What was most likely the last New Testament book written?",
+    "a": "Revelation",
+    "c": "the Bible"
+  },
+  {
+    "q": "How many days did God take to create the world?",
+    "a": "6",
+    "c": "Genesis"
+  },
+  {
+    "q": "What day did God create man?",
+    "a": "6th",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who was the first man?",
+    "a": "Adam",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who was the first woman?",
+    "a": "Eve",
+    "c": "Genesis"
+  },
+  {
+    "q": "Where did they live at the beginning of the world?",
+    "a": "Garden of Eden",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who were their three sons listed in the Bible?",
+    "a": "Cain, Abel, Seth",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who did God tell to build an ark?",
+    "a": "Noah",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who were Noah’s three sons?",
+    "a": "Shem, Ham, Japheth",
+    "c": "Genesis"
+  },
+  {
+    "q": "How many days and nights did it rain when Noah was on the ark?",
+    "a": "40",
+    "c": "Genesis"
+  },
+  {
+    "q": "How many people were saved on the ark?",
+    "a": "8",
+    "c": "Genesis"
+  },
+  {
+    "q": "What was God’s sign to Noah that he would never destroy the earth again?",
+    "a": "A rainbow",
+    "c": "Genesis"
+  },
+  {
+    "q": "What were men trying to do at the Tower of Babel?",
+    "a": "Built a tower to reach to Heaven.",
+    "c": "Genesis"
+  },
+  {
+    "q": "How did God make them spread out across the earth?",
+    "a": "Confused their languages.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who did God call out of Ur to move to Canaan?",
+    "a": "Abram",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who was Abram’s wife?",
+    "a": "Sarai",
+    "c": "Genesis"
+  },
+  {
+    "q": "Even though Abram and Sarah were too old, what did God promise them?",
+    "a": "A son",
+    "c": "Genesis"
+  },
+  {
+    "q": "When God showed Abram the stars in the sky, what did he promise?",
+    "a": "That Abram would have more descendants than the number of stars.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who was Abram’s handmaid?",
+    "a": "Hagar",
+    "c": "Genesis"
+  },
+  {
+    "q": "What was Sarah’s idea for Abram to have a child?",
+    "a": "For Abram to have a child with Hagar.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who was the first son he had?",
+    "a": "Ishmael.",
+    "c": "Genesis"
+  },
+  {
+    "q": "What was Abram’s name changed to?",
+    "a": "Abraham",
+    "c": "Genesis"
+  },
+  {
+    "q": "What was Sarai’s name changed to?",
+    "a": "Sarah",
+    "c": "Genesis"
+  },
+  {
+    "q": "What was the second son Abraham had?",
+    "a": "Isaac",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who did Abraham have his second son with?",
+    "a": "Sarah",
+    "c": "Genesis"
+  },
+  {
+    "q": "Where did Hagar and her son leave to?",
+    "a": "Into the desert",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who did Abraham send to find Isaac a wife?",
+    "a": "His oldest servant",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who did the servant choose?",
+    "a": "Rebekah",
+    "c": "Genesis"
+  },
+  {
+    "q": "What were Isaac’s sons’ names?",
+    "a": "Jacob and Esau",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who was born first?",
+    "a": "Esau came first, with Jacob grabbing his heel.",
+    "c": "Genesis"
+  },
+  {
+    "q": "How did Esau provide food for the family?",
+    "a": "He hunted.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who did Isaac favor of his two sons?",
+    "a": "Esau",
+    "c": "Genesis"
+  },
+  {
+    "q": "What did Jacob do most of the time?",
+    "a": "Stayed in the home with his mother.",
+    "c": "Genesis"
+  },
+  {
+    "q": "What did Esau receive in exchange for his birthright?",
+    "a": "Some stew.",
+    "c": "Genesis"
+  },
+  {
+    "q": "As Isaac was dying and blind, who suggested that Jacob should steal the blessing?",
+    "a": "Rebekah.",
+    "c": "Genesis"
+  },
+  {
+    "q": "How did Esau respond when his birthright was taken?",
+    "a": "Threatened to kill Jacob.",
+    "c": "Genesis"
+  },
+  {
+    "q": "When Jacob met Laban, which daughter did he want to marry?",
+    "a": "Rachel.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who did Laban trick Jacob into marrying?",
+    "a": "Leah.",
+    "c": "Genesis"
+  },
+  {
+    "q": "What did Laban make Jacob do to finally marry Rachel?",
+    "a": "Work another seven years.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who was the first son Jacob had with Rachel?",
+    "a": "Joseph",
+    "c": "Genesis"
+  },
+  {
+    "q": "What did God change Jacob’s name to before his meeting with Esau?",
+    "a": "Israel",
+    "c": "Genesis"
+  },
+  {
+    "q": "How many brothers did Joseph have?",
+    "a": "12",
+    "c": "Genesis"
+  },
+  {
+    "q": "What did Jacob give Joseph that sparked jealousy from his siblings?",
+    "a": "A coat of many colors.",
+    "c": "Genesis"
+  },
+  {
+    "q": "What did Joseph tell his brothers about his dreams that upset them?",
+    "a": "The dreams said he would become greater and rule over them.",
+    "c": "Genesis"
+  },
+  {
+    "q": "How did the brothers get rid of Joseph?",
+    "a": "Sold him to slave traders.",
+    "c": "Genesis"
+  },
+  {
+    "q": "What did Joseph’s brothers tell their father had happened to him?",
+    "a": "They said Joseph was killed by a wild animal.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Where did the slave traders take Joseph?",
+    "a": "Egypt",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who bought Joseph?",
+    "a": "Potiphar, captain of the Pharaoh’s guards",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who got Joseph thrown into prison by lying about him?",
+    "a": "Potiphar’s wife",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who else was in prison with Joseph?",
+    "a": "The Pharaoh’s cupbearer and chief baker.",
+    "c": "Genesis"
+  },
+  {
+    "q": "What did Joseph do for them?",
+    "a": "Interrupted their dreams.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Why was Joseph summoned out of prison by the Pharaoh?",
+    "a": "To interrupt his dream.",
+    "c": "Genesis"
+  },
+  {
+    "q": "What position of power was Joseph given by the Pharaoh?",
+    "a": "Second in command of Egypt.",
+    "c": "Genesis"
+  },
+  {
+    "q": "What catastrophe did Joseph predict by interpreting the Pharaoh’s dream?",
+    "a": "A severe, seven-year famine.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who came to Egypt that Joseph recognized because of the famine?",
+    "a": "His brothers.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Who was Jacob’s second son with Rachel?",
+    "a": "Benjamin",
+    "c": "Genesis"
+  },
+  {
+    "q": "What did Joseph tell the brothers to do next time they came back to Egypt?",
+    "a": "To bring Benjamin with them.",
+    "c": "Genesis"
+  },
+  {
+    "q": "Which brother volunteered to stay in Egypt instead of Benjamin?",
+    "a": "Judah",
+    "c": "Genesis"
+  },
+  {
+    "q": "What did Joseph tell his brothers to do when they returned to Canaan?",
+    "a": "Bring their families and their father to Egypt.",
+    "c": "Genesis"
+  },
+  {
+    "q": "How did Moses’ mother save him from the Egyptian soldiers?",
+    "a": "Put him in a basket in the river.",
+    "c": "Exodus"
+  },
+  {
+    "q": "What did Moses do after he killed an Egyptian?",
+    "a": "Ran away into the desert.",
+    "c": "Exodus"
+  },
+  {
+    "q": "Through what did God speak to Moses in the desert?",
+    "a": "A burning bush",
+    "c": "Exodus"
+  },
+  {
+    "q": "When Moses confronted the Pharaoh, what did his staff turn into when he threw it on the ground?",
+    "a": "A snake",
+    "c": "Exodus"
+  },
+  {
+    "q": "What did Moses say God commanded the Pharaoh to do?",
+    "a": "Let the Israelite slaves go free.",
+    "c": "Exodus"
+  },
+  {
+    "q": "How many plagues did God send on Egypt?",
+    "a": "10",
+    "c": "Exodus"
+  },
+  {
+    "q": "What was the final plague that convinced Pharaoh to let the slaves go?",
+    "a": "The firstborn son of all Egyptian families died.",
+    "c": "Exodus"
+  },
+  {
+    "q": "When Pharaoh changed his mind and sent his army after the slaves, where did they meet at?",
+    "a": "By the Red Sea",
+    "c": "Exodus"
+  },
+  {
+    "q": "What did God through Moses to save the slaves?",
+    "a": "Parted the Red Sea",
+    "c": "Exodus"
+  },
+  {
+    "q": "When the Egyptians tried to follow the Israelites through the Red Sea, what happened?",
+    "a": "The water crashed on them and killed them all.",
+    "c": "Exodus"
+  },
+  {
+    "q": "What did God send to feed the Israelites in the desert?",
+    "a": "Quail and manna",
+    "c": "Exodus"
+  },
+  {
+    "q": "Where did God give Moses the Ten Commandments?",
+    "a": "Mt. Sinai",
+    "c": "Exodus"
+  },
+  {
+    "q": "What golden image did the Israelites make at Mt. Sinai?",
+    "a": "A golden calf",
+    "c": "Exodus"
+  },
+  {
+    "q": "What did the spies sent into Canaan see that made them scared?",
+    "a": "Giants in the land",
+    "c": "Exodus"
+  },
+  {
+    "q": "Who were the only two Israelites allowed to go into the Promised Land after many years?",
+    "a": "Joshua and Caleb",
+    "c": "Exodus"
+  },
+  {
+    "q": "What city did God make the walls fall so Joshua and the Israelites could conquer it?",
+    "a": "Jericho",
+    "c": "Exodus"
+  },
+  {
+    "q": "After they took over the Promised Land and Joshua died, who ruled Israel?",
+    "a": "Judges",
+    "c": "Exodus"
+  },
+  {
+    "q": "Who was the woman judge who led Israel to victory?",
+    "a": "Deborah",
+    "c": "Exodus"
+  },
+  {
+    "q": "Who was the judge who defeated the Midianites with only 300 men using torches and horns?",
+    "a": "Gideon",
+    "c": "Exodus"
+  },
+  {
+    "q": "Who was the judge who took a Nazarite vow from birth and fought against the Philistines?",
+    "a": "Samson",
+    "c": "Exodus"
+  },
+  {
+    "q": "With what did Samson kill 1,000 Philistines?",
+    "a": "A donkey’s jawbone",
+    "c": "Exodus"
+  },
+  {
+    "q": "What Philistine woman asked Samson what his power came from?",
+    "a": "Delilah",
+    "c": "Exodus"
+  },
+  {
+    "q": "How did Samson die?",
+    "a": "Pushing over the temple pillars, killing himself and many Philistines.",
+    "c": "Exodus"
+  },
+  {
+    "q": "Who was the first king of Israel?",
+    "a": "Saul",
+    "c": "the"
+  },
+  {
+    "q": "Who anointed him king?",
+    "a": "Samuel",
+    "c": "the"
+  },
+  {
+    "q": "Who was the enemy who took the Ark of the Covenant?",
+    "a": "Philistines",
+    "c": "the"
+  },
+  {
+    "q": "What happened the idol which was beside the Ark in the enemy’s temple?",
+    "a": "The idol fell over and broke",
+    "c": "the"
+  },
+  {
+    "q": "When the people demanded Saul make a sacrifice to God that only priests should make, what did he do?",
+    "a": "Made the sacrifice anyways",
+    "c": "the"
+  },
+  {
+    "q": "When Saul conquered the Amalekites, what person did he keep as a prisoner instead of killing like God said to?",
+    "a": "The king, Agag",
+    "c": "the"
+  },
+  {
+    "q": "What was Saul’s punishment for disobeying?",
+    "a": "God took his kingdom away",
+    "c": "the"
+  },
+  {
+    "q": "Who was the king of Israel anointed by Samuel after Saul?",
+    "a": "David",
+    "c": "the"
+  },
+  {
+    "q": "What did David work as for his father?",
+    "a": "A shepherd",
+    "c": "the"
+  },
+  {
+    "q": "When the Philistines came to attack the Israelites, who mocked God and challenged them?",
+    "a": "Goliath the giant.",
+    "c": "the"
+  },
+  {
+    "q": "When David wanted to fight Goliath, what did Saul try to give him?",
+    "a": "His armor",
+    "c": "the"
+  },
+  {
+    "q": "What did David take from the brook to fight Goliath with?",
+    "a": "Five stones",
+    "c": "the"
+  },
+  {
+    "q": "How many sling-throws did it take David to hit Goliath?",
+    "a": "One",
+    "c": "the"
+  },
+  {
+    "q": "Who was Saul’s son that David befriended?",
+    "a": "Jonathan",
+    "c": "the"
+  },
+  {
+    "q": "What did Saul throw to try to kill David?",
+    "a": "A javelin/spear",
+    "c": "the"
+  },
+  {
+    "q": "What did Jonathan do to save David’s life from Saul?",
+    "a": "Warned him that Saul would try to kill him",
+    "c": "the"
+  },
+  {
+    "q": "What foreign country did David run away to?",
+    "a": "Land of the Philistines/Philistia",
+    "c": "the"
+  },
+  {
+    "q": "Did Saul give up on chasing David when David went into the wilderness?",
+    "a": "No",
+    "c": "the"
+  },
+  {
+    "q": "How many times did David spare Saul’s life?",
+    "a": "Twice",
+    "c": "the"
+  },
+  {
+    "q": "Where did David spare Saul’s life the first time?",
+    "a": "In a cave",
+    "c": "the"
+  },
+  {
+    "q": "Where did David spare Saul’s life the second time?",
+    "a": "In the camp where Saul was sleeping",
+    "c": "the"
+  },
+  {
+    "q": "What last judge of Israel died after Saul made a temporary peace with David?",
+    "a": "Samuel",
+    "c": "the"
+  },
+  {
+    "q": "Where did David go after Saul continued to hunt him?",
+    "a": "The Land of the Philistines/ Philistia",
+    "c": "the"
+  },
+  {
+    "q": "Where did Saul turn to for advice when he couldn’t sense God’s will?",
+    "a": "A witch",
+    "c": "the"
+  },
+  {
+    "q": "What prophet did he ask to speak to?",
+    "a": "Samuel",
+    "c": "the"
+  },
+  {
+    "q": "How did Saul die?",
+    "a": "Fell on his own sword",
+    "c": "the"
+  },
+  {
+    "q": "How many of his sons died in the same battle?",
+    "a": "All of them",
+    "c": "the"
+  },
+  {
+    "q": "Did all of Israel immediately consider David their king?",
+    "a": "No",
+    "c": "King"
+  },
+  {
+    "q": "Who was David’s captain of his army?",
+    "a": "Joab",
+    "c": "King"
+  },
+  {
+    "q": "When David stayed in Jerusalem, what woman did he see and commit adultery with?",
+    "a": "Bathsheba",
+    "c": "King"
+  },
+  {
+    "q": "Who was Bathsheba’s husband?",
+    "a": "Uriah",
+    "c": "King"
+  },
+  {
+    "q": "When Bathsheba got pregnant, what did David make happen to Uriah?",
+    "a": "He was killed in battle",
+    "c": "King"
+  },
+  {
+    "q": "What prophet came to rebuke David?",
+    "a": "Nathan",
+    "c": "King"
+  },
+  {
+    "q": "What happened to Bathsheba’s child?",
+    "a": "The child died",
+    "c": "King"
+  },
+  {
+    "q": "When Bathsheba had another child, what did they name him?",
+    "a": "Solomon",
+    "c": "King"
+  },
+  {
+    "q": "Who was David’s son that started a rebellion against him?",
+    "a": "Absalom",
+    "c": "King"
+  },
+  {
+    "q": "What capital city did David abandon as Absalom came towards it?",
+    "a": "Jerusalem",
+    "c": "King"
+  },
+  {
+    "q": "When the two armies battled, what happened to Absalom’s hair?",
+    "a": "It got caught in a tree",
+    "c": "King"
+  },
+  {
+    "q": "Who killed Absalom?",
+    "a": "Joab",
+    "c": "King"
+  },
+  {
+    "q": "Because he killed Absalom, what was Joab’s punishment?",
+    "a": "He was not captain anymore",
+    "c": "King"
+  },
+  {
+    "q": "What was David’s second sin recorded in the Bible?",
+    "a": "He took a census of the people in his nation",
+    "c": "King"
+  },
+  {
+    "q": "During his time as king, who was David’s main enemy?",
+    "a": "Philistines",
+    "c": "King"
+  },
+  {
+    "q": "Which books of the Bible record David’s time as king?",
+    "a": "1st and 2nd Samuel",
+    "c": "King"
+  },
+  {
+    "q": "Which book did David write most of?",
+    "a": "Psalms",
+    "c": "King"
+  },
+  {
+    "q": "Who was David’s son that became king?",
+    "a": "Solomon",
+    "c": "the"
+  },
+  {
+    "q": "What trait did Solomon pray for from God?",
+    "a": "Wisdom",
+    "c": "the"
+  },
+  {
+    "q": "What did Solomon build for the Lord?",
+    "a": "A temple",
+    "c": "the"
+  },
+  {
+    "q": "What famous queen came to visit Solomon?",
+    "a": "Queen of Sheba",
+    "c": "the"
+  },
+  {
+    "q": "How many wives did Solomon have?",
+    "a": "700",
+    "c": "the"
+  },
+  {
+    "q": "Did Solomon always follow the Lord?",
+    "a": "No. He turned from God.",
+    "c": "the"
+  },
+  {
+    "q": "Who convinced Solomon to turn from God?",
+    "a": "His wives",
+    "c": "the"
+  },
+  {
+    "q": "What happened to the kingdom after Solomon’s rule?",
+    "a": "It split in two",
+    "c": "the"
+  },
+  {
+    "q": "Which books of the Bible record all the kings?",
+    "a": "1st and 2nd Kings, 1st and 2nd Chronicles",
+    "c": "the"
+  },
+  {
+    "q": "Which books of the Bible did Solomon write?",
+    "a": "Song of Solomon and Proverbs and some Psalms",
+    "c": "the"
+  },
+  {
+    "q": "How many kings of Judah were there?",
+    "a": "20",
+    "c": "the"
+  },
+  {
+    "q": "How many kings of Israel were there?",
+    "a": "19",
+    "c": "the"
+  },
+  {
+    "q": "Who conquered Judah and took Daniel to their country?",
+    "a": "Babylonians",
+    "c": "the"
+  },
+  {
+    "q": "Whose dream did Daniel interpret in - Babylon?",
+    "a": "King Nebuchadnezzar",
+    "c": "the"
+  },
+  {
+    "q": "Who was the last king Daniel served under in the Bible?",
+    "a": "Darius",
+    "c": "the"
+  },
+  {
+    "q": "When Daniel prayed to God after it was not allowed, where was he thrown into?",
+    "a": "The lion’s den",
+    "c": "the"
+  },
+  {
+    "q": "What were Daniel’s three friends (Babylonian names)?",
+    "a": "Shadrach, Meshach, Abednego",
+    "c": "the"
+  },
+  {
+    "q": "When they refused to bow to an idol, where were they thrown?",
+    "a": "Into a fiery furnace",
+    "c": "the"
+  },
+  {
+    "q": "Who returned to Israel to build up the walls of Jerusalem?",
+    "a": "Nehemiah",
+    "c": "the"
+  },
+  {
+    "q": "What Israelite saved her people from being murdered and was a wife of the king?",
+    "a": "Esther",
+    "c": "the"
+  },
+  {
+    "q": "What daring thing did Esther do to talk with the king?",
+    "a": "Went in to talk without being summoned first",
+    "c": "the"
+  },
+  {
+    "q": "Who let the Israelites return to their homeland?",
+    "a": "Cyrus",
+    "c": "the"
+  },
+  {
+    "q": "Who eventually came from the lineage of David?",
+    "a": "Jesus",
+    "c": "the"
+  },
+  {
+    "q": "Who was Jesus' human mother?",
+    "a": "Mary",
+    "c": "the Life"
+  },
+  {
+    "q": "Who was Jesus’ adoptive father on Earth?",
+    "a": "Joseph",
+    "c": "the Life"
+  },
+  {
+    "q": "Who was Jesus’ birth father?",
+    "a": "God the Holy Spirit – see Matt 1:20",
+    "c": "the Life"
+  },
+  {
+    "q": "Name the city where Jesus was born?",
+    "a": "Bethlehem",
+    "c": "the Life"
+  },
+  {
+    "q": "Where did Jesus’ family go when Herod wanted to harm him as baby?",
+    "a": "Egypt",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Because Jesus was God, he didn’t obey his parents’ rules.",
+    "a": "False – Jesus obeyed his parents – see Luke 2:51",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Jesus was an only child.",
+    "a": "False - Jesus had brothers and sister - see Mark 6:3",
+    "c": "the Life"
+  },
+  {
+    "q": "How many of Jesus’ brothers are named in the Bible?",
+    "a": "Four",
+    "c": "the Life"
+  },
+  {
+    "q": "How many of Jesus’ sisters are named in the Bible?",
+    "a": "None",
+    "c": "the Life"
+  },
+  {
+    "q": "Name one of Jesus’ brothers?",
+    "a": "James, Joseph, Simon and Judas",
+    "c": "the Life"
+  },
+  {
+    "q": "Who was Jesus' most famous cousin?",
+    "a": "John the Baptist",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: John the Baptist wore clothes made of goat hair?",
+    "a": "False – it was camel hair",
+    "c": "the Life"
+  },
+  {
+    "q": "Who baptized Jesus?",
+    "a": "John the Baptist",
+    "c": "the Life"
+  },
+  {
+    "q": "Who spoke from the sky when Jesus was baptized?",
+    "a": "God",
+    "c": "the Life"
+  },
+  {
+    "q": "What did God say?",
+    "a": "That he was well-pleased with his son.",
+    "c": "the Life"
+  },
+  {
+    "q": "What happened when Jesus went into the wilderness?",
+    "a": "He was tempted by Satan",
+    "c": "the Life"
+  },
+  {
+    "q": "Before Jesus starting preaching, what was his normal job?",
+    "a": "Carpenter (construction worker) – See Mark 6:3",
+    "c": "the Life"
+  },
+  {
+    "q": "Name Jesus’ hometown.",
+    "a": "Nazareth",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Jesus turned water into Coca-Cola?",
+    "a": "False, Jesus turned water into wine.",
+    "c": "the Life"
+  },
+  {
+    "q": "Besides preaching, name an activity Jesus did while traveling in Galilee.",
+    "a": "Healing the sick and casting out demons.",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Jesus stayed away from people with bad reputations?",
+    "a": "False – He often ate with “sinners.”",
+    "c": "the Life"
+  },
+  {
+    "q": "Name the place where Jesus walked on water?",
+    "a": "Sea of Galilee",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: At first, Jesus family tried to stop his ministry and said he was crazy.",
+    "a": "True - see Mark 3:11",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Jesus said his true family was anyone who obeys God.",
+    "a": "True – see Mark 3:34-35",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Everywhere he went, people loved Jesus and believed his message?",
+    "a": "False – many times Jesus was rejected.",
+    "c": "the Life"
+  },
+  {
+    "q": "Which member of the Jewish ruling counsel came to ask Jesus questions at night?",
+    "a": "Nicodemus",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Jesus didn’t like the people because they worshiped God the wrong way?",
+    "a": "False – Jesus welcomed all to follow him",
+    "c": "the Life"
+  },
+  {
+    "q": "How many disciples did Jesus choose?",
+    "a": "12",
+    "c": "the Life"
+  },
+  {
+    "q": "What was Matthew before he followed Jesus?",
+    "a": "A tax collector",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Jesus would sometimes “spit” as part of his healing miracles.",
+    "a": "True - Three times the Bible describes him spitting. – see Mark 7:33, Mark 8:23, John 9:6",
+    "c": "the Life"
+  },
+  {
+    "q": "What is the shortest verse in the Bible?",
+    "a": "John 11:35 Jesus wept.",
+    "c": "the Life"
+  },
+  {
+    "q": "Why did Jesus weep in that verse?",
+    "a": "Because his friend Lazarus died.",
+    "c": "the Life"
+  },
+  {
+    "q": "How many days was Lazarus dead before Jesus came to visit?",
+    "a": "Four days",
+    "c": "the Life"
+  },
+  {
+    "q": "What 2 things did Jesus do to raise Lazarus back to life?",
+    "a": "He prayed and then told Lazarus to come out.",
+    "c": "the Life"
+  },
+  {
+    "q": "Who helped pay the bills for Jesus and the disciples ministry?",
+    "a": "Several women who he had healed – see Luke 8:1-3",
+    "c": "the Life"
+  },
+  {
+    "q": "Name the demon Jesus cast out in the region of the Gerasenes?",
+    "a": "Legion",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: While on Earth, Jesus had the power to raise dead people back to life?",
+    "a": "True – several examples",
+    "c": "the Life"
+  },
+  {
+    "q": "How much bread and fish did Jesus use to feed over 5000 people?",
+    "a": "Five loaves of bread —and two fish",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Jesus’ said washing hands is never important.",
+    "a": "False – he said dirty hands don’t make a person spiritually unclean. You can still get germs!",
+    "c": "the Life"
+  },
+  {
+    "q": "What was Peter and Andrew doing when Jesus’ called them to follow him?",
+    "a": "Fishing",
+    "c": "the Life"
+  },
+  {
+    "q": "Name the two Old Testament people who appeared when Jesus was transfigured?",
+    "a": "Elijah and Moses",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Jesus ask the children to stay back while he was teaching important things to grown-ups.",
+    "a": "False – Jesus welcomed children",
+    "c": "the Life"
+  },
+  {
+    "q": "What problem did Bartimaeus have that Jesus fixed?",
+    "a": "He was blind",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: When Jesus went to the Temple, he always used his inside voice.",
+    "a": "False – Jesus drove out the money changers",
+    "c": "the Life"
+  },
+  {
+    "q": "How many people did Jesus feed with fish and bread?",
+    "a": "5,000 people",
+    "c": "the Life"
+  },
+  {
+    "q": "How many lepers did Jesus heal when only 1 returned?",
+    "a": "10",
+    "c": "the Life"
+  },
+  {
+    "q": "What did Jesus do at the Last Supper to his disciples?",
+    "a": "Washed their feet",
+    "c": "the Life"
+  },
+  {
+    "q": "What did the woman pour on Jesus’ feet at the home of Simon the Leeper?",
+    "a": "Jar of expensive perfume",
+    "c": "the Life"
+  },
+  {
+    "q": "Name the disciple who betrayed Jesus.",
+    "a": "Judas Iscariot",
+    "c": "the Life"
+  },
+  {
+    "q": "What garden did Jesus go to when he prayed after the Last Supper?",
+    "a": "Garden of Gethsemane",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: The Jewish leaders tried to set Jesus free.",
+    "a": "False – They lobbied for his crucifixion",
+    "c": "the Life"
+  },
+  {
+    "q": "Who gave Jesus a crown made of thorns?",
+    "a": "Roman soldier",
+    "c": "the Life"
+  },
+  {
+    "q": "Name the Roman Governor who sat over Jesus trial?",
+    "a": "Pilate",
+    "c": "the Life"
+  },
+  {
+    "q": "What did Pilate do to “cleanse himself” of the crucifixion?",
+    "a": "Washed his hands",
+    "c": "the Life"
+  },
+  {
+    "q": "Who cut off a soldier’s ear when Jesus was being arrested?",
+    "a": "Peter",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Jesus didn’t know that he was going to be arrested and killed in Jerusalem.",
+    "a": "False – He knew and told his disciples before it happened.",
+    "c": "the Life"
+  },
+  {
+    "q": "Which disciple denied Jesus three times?",
+    "a": "Peter",
+    "c": "the Life"
+  },
+  {
+    "q": "What happened to the temple curtain when Jesus was killed?",
+    "a": "It was ripped",
+    "c": "the Life"
+  },
+  {
+    "q": "What happened after Jesus was buried in the tomb?",
+    "a": "He rose again",
+    "c": "the Life"
+  },
+  {
+    "q": "What was rolled away from the entrance of the tomb?",
+    "a": "A large stone",
+    "c": "the Life"
+  },
+  {
+    "q": "What day of the week did Jesus rise back to life?",
+    "a": "Sunday – the first day of the week",
+    "c": "the Life"
+  },
+  {
+    "q": "How many days before Jesus returned to Heaven?",
+    "a": "40 days",
+    "c": "the Life"
+  },
+  {
+    "q": "How did Jesus leave Earth and go to Heaven?",
+    "a": "He rose up into the clouds",
+    "c": "the Life"
+  },
+  {
+    "q": "How many people saw Jesus after he came back from the dead?",
+    "a": "More than 500 – see 1 Cor 15:3–8 More New Testament Questions",
+    "c": "the Life"
+  },
+  {
+    "q": "What was another name for the Apostle Paul?",
+    "a": "Saul of Tarsus",
+    "c": "the Life"
+  },
+  {
+    "q": "Who was the first Christian to die for his faith?",
+    "a": "Stephen",
+    "c": "the Life"
+  },
+  {
+    "q": "How many books have the name John in them?",
+    "a": "Four (John, 1 John, 2, John, 3 John)",
+    "c": "the Life"
+  },
+  {
+    "q": "Who preached at Pentecost?",
+    "a": "Peter",
+    "c": "the Life"
+  },
+  {
+    "q": "What amazing miracle happened with languages?",
+    "a": "Everybody heard the sermon in their own language.",
+    "c": "the Life"
+  },
+  {
+    "q": "Who was Saul?",
+    "a": "He persecuted Christians",
+    "c": "the Life"
+  },
+  {
+    "q": "What happened when he was on the road to Damascus?",
+    "a": "He had a changing experience with Jesus",
+    "c": "the Life"
+  },
+  {
+    "q": "What was his name changed to?",
+    "a": "Paul",
+    "c": "the Life"
+  },
+  {
+    "q": "Who was exiled to an island?",
+    "a": "John",
+    "c": "the Life"
+  },
+  {
+    "q": "Who was crucified upside down?",
+    "a": "Peter",
+    "c": "the Life"
+  },
+  {
+    "q": "Who was the first martyr and was stoned?",
+    "a": "Stephen",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Ananias and Sapphira died after lying to the Apostles about their offering.",
+    "a": "True",
+    "c": "the Life"
+  },
+  {
+    "q": "How many deacons were chosen to help the apostles to distribute food to widows?",
+    "a": "Seven",
+    "c": "the Life"
+  },
+  {
+    "q": "Which Apostle took the Gospel to the city of Samaria?",
+    "a": "Philip",
+    "c": "the Life"
+  },
+  {
+    "q": "Which Apostle shared the Gospel with an Ethiopian official on the road to Gaza?",
+    "a": "Philip",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Peter raised a woman named Dorcas from the dead.",
+    "a": "True – see Acts 9",
+    "c": "the Life"
+  },
+  {
+    "q": "Where did Peter stay during his ministry in the city of Joppa?",
+    "a": "In the house of Simon the tanner",
+    "c": "the Life"
+  },
+  {
+    "q": "What did Peter’s vision about the unclean animals mean?",
+    "a": "That all people can be made clean through Jesus – aka non-Jews can be saved.",
+    "c": "the Life"
+  },
+  {
+    "q": "In what city were Jesus’ followers first called “Christians”?",
+    "a": "Antioch",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: Peter was rescued from prison by an Angel.",
+    "a": "True – see Acts 12",
+    "c": "the Life"
+  },
+  {
+    "q": "Who went with Paul on his early mission trips?",
+    "a": "Barnabas",
+    "c": "the Life"
+  },
+  {
+    "q": "True or False: God sent an earthquake to rescue Paul and Silas from prison in Philippi.",
+    "a": "True – but they didn’t escape but stayed in jail to share the good news",
+    "c": "the Life"
+  },
+  {
+    "q": "What did the Philippian jailer say to Paul after he heard the Gospel?",
+    "a": "What must I do to be saved?",
+    "c": "the Life"
+  },
+  {
+    "q": "How did Paul and Silas respond?",
+    "a": "Believe in the Lord Jesus, and you will be saved.",
+    "c": "the Life"
+  },
+  {
+    "q": "What was Paul’s goal in his missionary journey?",
+    "a": "To take the gospel everywhere and finally to preach in the capitol Rome",
+    "c": "the Life"
+  },
+  {
+    "q": "Where can you find the 10 commandments in the Bible?",
+    "a": "Exodus 20 and Deuteronomy 5",
+    "c": "the 10"
+  },
+  {
+    "q": "Name the person who received the 10 Commandments from God?",
+    "a": "Moses",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the preamble or introduction to the Commandments?",
+    "a": "I am the LORD your God who brought you out of Egypt (slavery).",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the 1st commandment?",
+    "a": "You shall have no other gods before me.",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the 2nd commandment?",
+    "a": "You shall not make idols.",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the 3rd commandment?",
+    "a": "You shall not misuse the name of the LORD your God.",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the 4th commandment?",
+    "a": "Observe the Sabbath day by keeping it holy.",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the 5th commandment?",
+    "a": "Honor your father and mother.",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the 6th commandment?",
+    "a": "You shall not murder.",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the 7th commandment?",
+    "a": "You shall not commit adultery.",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the 8th commandment?",
+    "a": "You shall not steal.",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the 9th commandment?",
+    "a": "You shall not give false testimony.",
+    "c": "the 10"
+  },
+  {
+    "q": "What is the 10th commandment?",
+    "a": "You shall not covet.",
+    "c": "the 10"
+  },
+  {
+    "q": "True or False: Jesus said the OT rules don’t matter anymore.",
+    "a": "False – See Matt 5:17",
+    "c": "the 10"
+  },
+  {
+    "q": "How many rules does Jesus use to summarize all the OT rules?",
+    "a": "Two",
+    "c": "the 10"
+  },
+  {
+    "q": "What does Jesus say is the first and greatest commandment?",
+    "a": "Love God with all your heart, minds, soul, and strength.",
+    "c": "the 10"
+  },
+  {
+    "q": "What does Jesus says is the second commandment?",
+    "a": "Love your neighbor as yourself.",
+    "c": "the 10"
+  },
+  {
+    "q": "Where is the Fruit of the Spirit found in the Bible?",
+    "a": "Galatians 5",
+    "c": "the"
+  },
+  {
+    "q": "Which human author wrote Galatians?",
+    "a": "Paul",
+    "c": "the"
+  },
+  {
+    "q": "True or False: Bananas are a fruit of the Spirit? 🍌",
+    "a": "False – Bananas are a gift from God but not considered spiritual fruit in Galatians 5.",
+    "c": "the"
+  },
+  {
+    "q": "Name any of the 9 Fruit of the Spirit.",
+    "a": "love, joy, peace, patience, kindness, goodness, faithfulness,  gentleness and self- control.  (sometimes patience is translated forbearance or longsuffering – see Galatians 5:22 )",
+    "c": "the"
+  },
+  {
+    "q": "True or False: The opposite of the Fruit of the Spirit are called “the works of the flesh.”",
+    "a": "True – see Galatians 5:19-21",
+    "c": "the"
+  },
+  {
+    "q": "Where in the Bible can you find the Lord’s Prayer?",
+    "a": "Matthew 6",
+    "c": "the"
+  },
+  {
+    "q": "Who taught the Lord’s Prayer?",
+    "a": "Jesus",
+    "c": "the"
+  },
+  {
+    "q": "How many requests are in the Lord’s Prayer?",
+    "a": "Seven",
+    "c": "the"
+  },
+  {
+    "q": "What is the 1st petition?",
+    "a": "Hallowed be your name",
+    "c": "the"
+  },
+  {
+    "q": "What is the 2nd petition?",
+    "a": "Your kingdom come",
+    "c": "the"
+  },
+  {
+    "q": "What is the 3rd petition?",
+    "a": "Your will be done on Earth",
+    "c": "the"
+  },
+  {
+    "q": "What is the 4th petition?",
+    "a": "Give us our daily bread",
+    "c": "the"
+  },
+  {
+    "q": "What is the 5th petition?",
+    "a": "Forgive our debts",
+    "c": "the"
+  },
+  {
+    "q": "What is the 6th petition?",
+    "a": "Don’t lead us into temptation",
+    "c": "the"
+  },
+  {
+    "q": "What is the 7th petition?",
+    "a": "Deliver us from evil",
+    "c": "the"
+  },
+  {
+    "q": "True or False: The more words we say makes our prayers better.",
+    "a": "False – Jesus said God already knows what we need",
+    "c": "the"
+  }
+]
